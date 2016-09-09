@@ -1,4 +1,4 @@
-# retrospectives
+# Retrospectives
 
 Welcome to this collection of random ideas and thoughts that could be transformed into a retrospective or used as a part of it. Chances are high that I might pick from this list when facilitating my next retrospectives.
 
